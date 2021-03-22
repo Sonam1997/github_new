@@ -4,7 +4,12 @@ def add(x,y):
 
 #SUb
 def subtract(x,y):
-    retrun x-y
+
+    if y>x:
+           return negative_value
+    else 
+          return x-y
+
 
 #multiply
 def multiply(x,y):
